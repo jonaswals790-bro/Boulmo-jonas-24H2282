@@ -1,0 +1,3 @@
+com/wals/blog/BlogApplication.class
+com/wals/blog/controller/ArticleController.class
+com/wals/blog/model/Article.class
